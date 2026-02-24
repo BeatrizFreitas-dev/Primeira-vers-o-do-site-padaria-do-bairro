@@ -1,6 +1,4 @@
 # Padaria do Bairro 🥖
-
-## 📝 Descrição do Projeto
  ## 📝 Descrição do Projeto
 O site **Padaria do Bairro** é um projeto institucional desenvolvido em **HTML5 e CSS3**,
 com o objetivo de apresentar a padaria aos clientes, seus produtos, cardápio, galeria de imagens,
